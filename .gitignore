@@ -25,12 +25,6 @@ yarn-error.log
 /storage/framework/views
 /storage/framework/testing
 
-# Composer & npm files
-composer.lock
-package-lock.json
-npm-debug.log
-yarn-error.log
-
 # OS generated
 .DS_Store
 Thumbs.db
